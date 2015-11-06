@@ -1,0 +1,21 @@
+body {
+    font-family: "Helvetica", sans-serif;
+    font-size: 16px;
+    background-color: lightskyblue; 
+    color: white;
+    padding: 20px;
+}
+
+/*#main {
+    padding: 20px;
+    padding-left:  30px;
+    padding-right: 30px;
+    background-color: lightskyblue;
+    /*border-radius: 0 0 5px 5px;*/
+}
+
+h1 {
+    font-family: Helvetica, serif;
+    color: white;
+    font-size: 30px;
+}
